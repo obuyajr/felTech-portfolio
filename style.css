@@ -26,7 +26,8 @@ body {
 } 
 
 .logo .logo-heading { 
-	color: #fff; 
+	/* color: #fff;  */
+	color: white; 
 } 
 
 .menu { 
@@ -269,7 +270,7 @@ body {
 	font-size: 1.3rem; 
 	font-weight: lighter; 
 	margin: 0; 
-    color: #ccc; 
+    color: white; 
 	letter-spacing: 1px; 
 } 
 
@@ -282,7 +283,7 @@ body {
 .sub-heading { 
 	margin: 0; 
 	font-size: 0.8rem; 
-	color: #ccc; 
+	color: white;  
 	font-weight: lighter; 
 } 
 
@@ -355,3 +356,5 @@ body {
 .blue-text { 
 	color: #363D73; 
 }
+
+
