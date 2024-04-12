@@ -15,3 +15,11 @@ hamburger.addEventListener('click', function () {
 		menu.style.display = "block"
 	} 
 });
+
+function sendMail(){
+	var params = {
+		name : document.getElementById("name"),
+		email : document.getElementById("email"),
+		message : document.getElementById("message")
+	}
+}
